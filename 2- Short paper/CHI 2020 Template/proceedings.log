@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  1 OCT 2019 00:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  1 OCT 2019 00:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1079,7 +1079,10 @@ Underfull \hbox (badness 1527) in paragraph at lines 182--183
 []] uses an
  []
 
-[1{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+Underfull \vbox (badness 4792) has occurred while \output is active []
+
+ [1{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 Non-PDF special ignored!
@@ -1120,20 +1123,20 @@ Package rerunfilecheck Info: File `proceedings.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
  ) 
 Here is how much of TeX's memory you used:
- 19560 strings out of 493014
- 355895 string characters out of 6137001
- 447946 words of memory out of 5000000
+ 19562 strings out of 493014
+ 355909 string characters out of 6137001
+ 447947 words of memory out of 5000000
  22540 multiletter control sequences out of 15000+600000
- 69652 words of font info for 176 fonts, out of 8000000 for 9000
+ 69666 words of font info for 177 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,56p,1090b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,56p,1182b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
 f-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2016/texmf-dist/fonts/
 type1/public/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helv
 etic/uhvb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c
 :/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (2 pages, 71405 bytes).
+Output written on proceedings.pdf (2 pages, 71441 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  121 compressed objects within 2 object streams

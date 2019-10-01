@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 23:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 23:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1105,7 +1105,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 )
-Overfull \vbox (0.95692pt too high) has occurred while \output is active []
+Overfull \vbox (1.28938pt too high) has occurred while \output is active []
 
 
 [2]
@@ -1114,28 +1114,44 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
  (./proceedings.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 228.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
-Package rerunfilecheck Info: File `proceedings.out' has not changed.
-(rerunfilecheck)             Checksum: 0D26C388D759A7924D5C57941AF4C074;562.
+
+
+Package rerunfilecheck Warning: File `proceedings.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `proceedings.out':
+(rerunfilecheck)             Before: 0D26C388D759A7924D5C57941AF4C074;562
+(rerunfilecheck)             After:  E873BCFAB826FD074506E659B97F409F;751.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
  ) 
 Here is how much of TeX's memory you used:
- 19535 strings out of 493014
- 355602 string characters out of 6137001
- 447871 words of memory out of 5000000
+ 19550 strings out of 493014
+ 355755 string characters out of 6137001
+ 453871 words of memory out of 5000000
  22535 multiletter control sequences out of 15000+600000
- 69132 words of font info for 168 fonts, out of 8000000 for 9000
+ 69392 words of font info for 172 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,56p,936b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
-f-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2016/texmf-dist/fonts/
-type1/public/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helv
-etic/uhvb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c
-:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/tex
-mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (2 pages, 68363 bytes).
+ 62i,10n,56p,1065b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.22} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.20} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{section.18} has been referenced but does not exist,
+ replaced by a fixed one
+
+{c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texmf-
+dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2016/texmf-dist/fonts/ty
+pe1/public/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helvet
+ic/uhvb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/
+texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/texmf
+-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on proceedings.pdf (2 pages, 67550 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
  23133 words of extra memory for PDF output out of 24883 (max. 10000000)
 

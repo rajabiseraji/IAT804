@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 18:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1094,7 +1094,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 
 Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 185.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 179.
  (./proceedings.bbl
 
 Package balance Warning: You have called \balance in second column
@@ -1106,21 +1106,21 @@ Package balance Warning: You have called \balance in second column
 Non-PDF special ignored!
 
 ]) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (./proceedings.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 268.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
 Package rerunfilecheck Info: File `proceedings.out' has not changed.
 (rerunfilecheck)             Checksum: 102BEF7770954020E0701D48F434C29B;473.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
  ) 
 Here is how much of TeX's memory you used:
- 19572 strings out of 493014
- 356376 string characters out of 6137001
- 449546 words of memory out of 5000000
- 22573 multiletter control sequences out of 15000+600000
- 76055 words of font info for 165 fonts, out of 8000000 for 9000
+ 19544 strings out of 493014
+ 355914 string characters out of 6137001
+ 450134 words of memory out of 5000000
+ 22562 multiletter control sequences out of 15000+600000
+ 75795 words of font info for 161 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,56p,423b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
@@ -1130,10 +1130,10 @@ lic/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb
 8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive
 /2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/texmf-dist/f
 onts/type1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (2 pages, 85280 bytes).
+Output written on proceedings.pdf (2 pages, 76608 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
  25165 words of extra memory for PDF output out of 29859 (max. 10000000)
 

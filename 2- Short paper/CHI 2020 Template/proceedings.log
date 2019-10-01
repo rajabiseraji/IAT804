@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 19:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,7 +1095,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 179.
- (./proceedings.bbl)
+
+Underfull \hbox (badness 1527) in paragraph at lines 182--184
+[]\T1/ptm/m/n/10 (+20) It is ex-plic-itly stated in the ab-stract that [[][]2[]
+[]] uses an
+ []
+
+(./proceedings.bbl)
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
@@ -1105,42 +1111,34 @@ Package balance Warning: You have called \balance in second column
 
 Non-PDF special ignored!
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 255.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 255.
+] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
  (./proceedings.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 255.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 255.
-
-
-Package rerunfilecheck Warning: File `proceedings.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `proceedings.out':
-(rerunfilecheck)             Before: 78159DB4CFB15F49705F9E433FE0E2A4;471
-(rerunfilecheck)             After:  1C4F6A79547B5498A66F17078D6DA797;471.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 255.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
+Package rerunfilecheck Info: File `proceedings.out' has not changed.
+(rerunfilecheck)             Checksum: B956C3543B3A0041F7D8C36489B29B8E;465.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 19539 strings out of 493014
- 355847 string characters out of 6137001
- 449134 words of memory out of 5000000
- 22559 multiletter control sequences out of 15000+600000
- 75481 words of font info for 160 fonts, out of 8000000 for 9000
+ 19534 strings out of 493014
+ 355839 string characters out of 6137001
+ 449176 words of memory out of 5000000
+ 22560 multiletter control sequences out of 15000+600000
+ 74726 words of font info for 154 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,56p,423b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,56p,616b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2016/texmf-dist/fo
-nts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/pub
-lic/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helvetic/uhvb
-8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive
-/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/texmf-dist/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (1 page, 75338 bytes).
+f-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2016/texmf-dist/fonts/
+type1/public/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helv
+etic/uhvb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c
+:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/tex
+mf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on proceedings.pdf (2 pages, 71157 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
+ 103 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
  24653 words of extra memory for PDF output out of 24883 (max. 10000000)
 

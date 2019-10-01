@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 23:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2018.9.29)  30 SEP 2019 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1119,20 +1119,20 @@ Package rerunfilecheck Info: File `proceedings.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
  ) 
 Here is how much of TeX's memory you used:
- 19532 strings out of 493014
- 355575 string characters out of 6137001
+ 19535 strings out of 493014
+ 355602 string characters out of 6137001
  447871 words of memory out of 5000000
  22535 multiletter control sequences out of 15000+600000
- 69002 words of font info for 166 fonts, out of 8000000 for 9000
+ 69132 words of font info for 168 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,10n,56p,935b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,10n,56p,936b,439s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
 f-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2016/texmf-dist/fonts/
 type1/public/txfonts/t1xtt.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/helv
 etic/uhvb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c
 :/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2016/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on proceedings.pdf (2 pages, 68360 bytes).
+Output written on proceedings.pdf (2 pages, 68363 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream

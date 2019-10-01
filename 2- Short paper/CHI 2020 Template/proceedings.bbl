@@ -32,15 +32,6 @@
 \ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
 \ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
 
-\bibitem{creswell2018research}
-{John Creswell}. 2018.
-\newblock {\em Research design : qualitative, quantitative, and mixed methods
-  approaches}.
-\newblock SAGE Publications, Inc, Thousand Oaks, California.
-\newblock
-\showISBNx{9781506386768}
-
-
 \bibitem{10.1093/iwc/iwv003}
 {Anna Macaranas}, {Alissa~N. Antle}, {and} {Bernhard~E. Riecke}. 2015.
 \newblock \showarticletitle{{What is Intuitive Interaction? Balancing Users'

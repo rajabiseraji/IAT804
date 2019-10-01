@@ -32,6 +32,25 @@
 \ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
 \ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
 
+\bibitem{creswell2018research}
+{John Creswell}. 2018.
+\newblock {\em Research design : qualitative, quantitative, and mixed methods
+  approaches}.
+\newblock SAGE Publications, Inc, Thousand Oaks, California.
+\newblock
+\showISBNx{9781506386768}
+
+
+\bibitem{Gergle2014}
+{Darren Gergle} {and} {Desney~S. Tan}. 2014.
+\newblock {\em Experimental Research in HCI}.
+\newblock Springer New York, New York, NY, 191--227.
+\newblock
+\showISBNx{978-1-4939-0378-8}
+\showDOI{%
+\url{http://dx.doi.org/10.1007/978-1-4939-0378-8_9}}
+
+
 \bibitem{10.1093/iwc/iwv003}
 {Anna Macaranas}, {Alissa~N. Antle}, {and} {Bernhard~E. Riecke}. 2015.
 \newblock \showarticletitle{{What is Intuitive Interaction? Balancing Users'
